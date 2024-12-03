@@ -1,8 +1,19 @@
-# React + Vite
+# The Last Leaves
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Last Leaves** is a web app built with React, Leaflet, and Lottie for interactive maps and animations. It uses Vite for fast development and Tailwind CSS for styling, offering a smooth user experience.
 
-Currently, two official plugins are available:
+## Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: For building user interfaces.
+- **Leaflet**: For interactive maps.
+- **Lottie-React**: For animations.
+- **Vite**: For fast development builds.
+- **Tailwind CSS**: For utility-first styling.
+- **ESLint**: For linting and code quality.
+
+## Features
+
+- Interactive maps with **Leaflet** and **React-Leaflet**.
+- Animations using **Lottie-React**.
+- Fast builds with **Vite**.
+- Customizable UI with **Tailwind CSS**.
